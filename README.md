@@ -6,9 +6,12 @@ You can find my curriculum [here](https://airtable.com/shr3d0a6rQa1OPL2i).
 
 ## Project 1: Python Programming
 
-- [Embed link(s) to your course reflections for this section of the curriculum]
-- [Describe your project briefly here]
-- [Embed link to project file(s) here]
+### Time Traccking Application
+- The Time Tracking Application is a command-line Python program that allows users to track and manage tasks along with their elapsed times. It provides various functionalities such as;
+Starting a task, stopping a task, displaying the task history, displaying the total completed time, and exporting the task history to a text file.
+
+
+You can the application [here]()
 
 ## Project 2: Data Analysis in Python
 
