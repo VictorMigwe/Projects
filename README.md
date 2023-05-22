@@ -11,7 +11,7 @@ You can find my curriculum [here](https://airtable.com/shr3d0a6rQa1OPL2i).
 Starting a task, stopping a task, displaying the task history, displaying the total completed time, and exporting the task history to a text file.
 
 
-You can view the application [here](https://github.com/VictorMigwe/Projects/tree/main/Project1%20-%20Python%20Programming/Time%20Tracking%20Application)
+You can view the application [here](https://github.com/VictorMigwe/Projects/tree/main/Project1%20-%20Python%20Programming/Time%20Tracking%20Application) 
 
 # Project 2: Data Analysis in Python
 
